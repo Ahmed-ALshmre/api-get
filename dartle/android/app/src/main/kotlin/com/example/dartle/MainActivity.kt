@@ -1,0 +1,6 @@
+package com.example.dartle
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
